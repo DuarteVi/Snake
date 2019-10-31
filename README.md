@@ -1,5 +1,5 @@
 # Snake
-(2019) Projet réalisé dans le cadre d'un devoir universitaire
+(2019) Projet réalisé dans le cadre d'un devoir universitaire.
 Projet réalisé avec une interface graphique construite sur la couche XLib.
 
 Le fichier suivant a été réalisé à plus ou moins 50% chacun : 
